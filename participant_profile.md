@@ -22,24 +22,15 @@
 5. **Commit your changes** following the commit message rules.
 ---
 
-# Participant Basic Guidance v0.1.0
-
 ## Participant Information
 
-This document contains information about the participant developer who contributed to the project.
+## Participant Name: Mustafa Mert Kaplan
 
-## Participant Name: Gurkan Fikret Günak
-
-- University: <!-- Add university name or remove if not applicable -->
-- Department: <!-- Add department name or remove if not applicable -->
-- Email: <!-- Add email address -->
-- GitHub: [gurkanfikretgunak](https://github.com/gurkanfikretgunak)
-- LinkedIn: [Gurkan Fikret Günak](https://www.linkedin.com/in/gurkanfikretgunak/)
-- Personal Website: [gurkanfikretgunak.com](https://www.gurkanfikretgunak.com)
-
-Gurkan Fikret Günak is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
-
-Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website to connect or learn more about his projects and experiences.
+- University: Cukurova Universitesi
+- Department: Bilgisayar Muhendisligi
+- Email: mmertkaplan01@hotmail.com
+- GitHub: [MertKaplan01](https://github.com/MertKaplan01)
+- LinkedIn: [Mustafa Mert Kaplan](https://www.linkedin.com/in/mustafamertkaplan/)
 
 ## **Participant's Project Development Environment Checklist:**
 
@@ -50,7 +41,7 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 - **IDE (Integrated Development Environment)**
   - [ ] Android Studio
-  - [ ] Visual Studio Code
+  - [X] Visual Studio Code
   - [ ] Xcode
   - [ ] Other (Please specify)
 
@@ -66,8 +57,8 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 - **Communication Channel**
   - [ ] Slack
-  - [ ] Microsoft Teams
-  - [ ] Other (Please specify)
+  - [X] Microsoft Teams
+  - [X] Other (Discord)
 
 - **API Integration**
   - [x] Yes
@@ -85,23 +76,5 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
   - [ ] Yes
   - [x] No
 
-## Key Skills & Contributions
-
-- Mobile development (iOS/Android)
-- AI-powered application design
-- Project architecture and design
-- CI/CD pipeline setup
-
-## References & Resources
-
-- [Official React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [Firebase Studio](https://console.firebase.google.com/)
-- [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)
-- [AI Integration Patterns](https://developer.ibm.com/articles/ai-integration-patterns/)
-
----
-
-> **"Weeks of coding can save you hours of planning."**
+## Key Skills:
+Python, Django, Vue.js
