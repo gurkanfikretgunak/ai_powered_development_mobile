@@ -4,10 +4,10 @@
 
 ## 🚀 How to Use This File
 
-1. **Fork** this project repository.  
+1. **Fork** this project repository.
    ![Fork](https://img.icons8.com/ios-filled/24/000000/code-fork.png)
 
-2. **Create a folder named `docs`** in the root directory of your forked project.  
+2. **Create a folder named `docs`** in the root directory of your forked project.
    ```
    your-project-root/
      └── docs/
@@ -15,9 +15,9 @@
 
 3. **Copy this file** (`participant_profile.md`) into the `docs` folder.
 
-4. **Update your information** in this file.  
-   - Fill in your name, contact, and other details.
-   - Check the boxes that apply to you.
+4. **Update your information** in this file.
+  - Fill in your name, contact, and other details.
+  - Check the boxes that apply to you.
 
 5. **Commit your changes** following the commit message rules.
 ---
@@ -105,3 +105,4 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 ---
 
 > **"Weeks of coding can save you hours of planning."**
+
