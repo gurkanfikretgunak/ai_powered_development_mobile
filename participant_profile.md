@@ -30,16 +30,11 @@ This document contains information about the participant developer who contribut
 
 ## Participant Name: Gurkan Fikret Günak
 
-- University: <!-- Add university name or remove if not applicable -->
-- Department: <!-- Add department name or remove if not applicable -->
-- Email: <!-- Add email address -->
-- GitHub: [gurkanfikretgunak](https://github.com/gurkanfikretgunak)
-- LinkedIn: [Gurkan Fikret Günak](https://www.linkedin.com/in/gurkanfikretgunak/)
-- Personal Website: [gurkanfikretgunak.com](https://www.gurkanfikretgunak.com)
+- University: Cukurova University
+- Department: Computer Engineering
+- Email: akinmenge8552@gmail.com
 
-Gurkan Fikret Günak is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
-
-Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website to connect or learn more about his projects and experiences.
+Akın Menge is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
 
 ## **Participant's Project Development Environment Checklist:**
 
